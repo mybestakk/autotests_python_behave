@@ -2,6 +2,7 @@ from steps  import baseclass
 
 def before_scenario(context, scenario):
 	context.baseclass = baseclass.BaseClass()
+	context.baseclass.addLine()
 	context.baseclass.browser
 	context.baseclass.browser.maximize_window()
 
