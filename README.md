@@ -1,4 +1,4 @@
-# autotests_python_behave
+# autotests
 Automation tests written on Python using Behave framework and Selenium WebDriver which displaying the specifics of Selenium WebDriver testing. 
 
 ### Getting Started
