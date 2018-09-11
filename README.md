@@ -4,7 +4,9 @@ Automation tests written on Python using Behave framework and Selenium WebDriver
 ### Getting Started
 [Install python](https://www.python.org/getit/)
 
-[Install behave](https://behave.readthedocs.io/en/latest/install)
+[Install behave](https://behave.readthedocs.io/en/latest/install.html)
+
+[Install behave](https://selenium-python.readthedocs.io/installation.html)
 
 [Download autotests_python_behave](https://github.com/mybestakk/autotests_python_behave.git)
 
